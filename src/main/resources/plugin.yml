@@ -1,0 +1,9 @@
+name: Knockit
+version: ${project.version}
+main: de.max.knockit.Knockit
+authors: [ xMaxelx ]
+description: KnockIT PL
+
+commands:
+   build:
+   setspawn:
